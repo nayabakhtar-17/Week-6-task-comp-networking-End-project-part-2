@@ -77,6 +77,9 @@ Solutions:
 
 Summary Of Project:
 This guide provides a step-by-step walkthrough of setting up and configuring an office network using Cisco Packet Tracer. The network consists of routers, switches, PCs, and a wireless access point. The guide covers four main tasks: security assessment and implementation, network performance optimization, load balancing and failover, and network backup and recovery.
+...To see full video of this project, visit my LinkedIn post...
+
+https://www.linkedin.com/posts/nayab-akhtar-bb3026294_cosmicode-cosmicodetech-cosmicodetechnology-activity-7235304117831667712-S0K_?utm_source=share&utm_medium=member_android
 
 Author[Nayab]
 Version[2.0]
